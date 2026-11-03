@@ -2,7 +2,7 @@
 
 <img align="right" src="assets/purity-seal.svg" width="150" alt="Code approved by the Omnissiah" />
 
-`Linux` · `QML` · `Python` · `JavaScript` · `Rust`
+`Linux` · `QML` · `Python` · `JavaScript` · `Rust` · `Go`
 
 I make some stuff.
 
@@ -11,9 +11,9 @@ I make some stuff.
 | Project | Description |
 | :--- | :--- |
 | [MachineSpirit](https://github.com/Kukushkasus/MachineSpirit) | A Hyprland desktop shell built with Quickshell. Gothic industrial aesthetics, widgets, and built-in settings. |
+| [ipv4-counter-optimized](https://github.com/Kukushkasus/ipv4-counter-optimized) | A high-performance IPv4 address counter in Go, featuring concurrent processing, an adaptive bitmap, and memory optimizations. |
 | [mikrotik-security-watch](https://github.com/Kukushkasus/mikrotik-security-watch) | MikroTik security monitoring through Zabbix. Written in Python. |
 | [TwitchMachine](https://github.com/Kukushkasus/TwitchMachine) | A Node.js bot that posts DonationAlerts donations to Twitch chat with profanity filtering. |
 | [ThroneTtvRUBypass](https://github.com/Kukushkasus/ThroneTtvRUBypass) | A Throne routing profile for Twitch without sending all traffic through a VPN. |
 
 <br clear="right" />
-
